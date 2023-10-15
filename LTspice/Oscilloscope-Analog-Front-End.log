@@ -1,0 +1,226 @@
+Circuit: * D:\ESE323\1MHz Oscilloscope Project\LTspice\Oscilloscope-Analog-Front-End.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Less than two connections to node spst_relay_control.  This node is used by q1.
+WARNING: Less than two connections to node dpst_relay_control.  This node is used by q2.
+Instance "m:u13:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u13:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u14:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u14:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u8:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u8:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u15:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u15:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u3:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u3:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u11:i64:6": Width narrower than recommended for a level 2 MOSFET.
+Instance "m:u11:i64:5": Width narrower than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+Gmin = 4.79288e-07
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 4.44155e-07
+vernier = 0.0208333
+Gmin = 4.24412e-07
+vernier = 0.0277778
+vernier = 0.037037
+Gmin = 3.93995e-07
+vernier = 0.0493827
+vernier = 0.0658435
+Gmin = 3.50283e-07
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 3.27153e-07
+vernier = 0.0585276
+vernier = 0.0292638
+vernier = 0.0390184
+Gmin = 3.05651e-07
+vernier = 0.0520245
+vernier = 0.0260122
+Gmin = 2.85563e-07
+vernier = 0.034683
+vernier = 0.046244
+Gmin = 2.61572e-07
+vernier = 0.0616586
+Gmin = 2.27909e-07
+vernier = 0.0822114
+vernier = 0.109615
+Gmin = 1.81044e-07
+vernier = 0.146154
+vernier = 0.194871
+Gmin = 1.2574e-07
+vernier = 0.259828
+Gmin = 7.12599e-08
+vernier = 0.346438
+vernier = 0.461917
+Gmin = 2.79614e-08
+vernier = 0.615889
+vernier = 0.821185
+Gmin = 6.55051e-09
+vernier = 1
+Gmin = 8.13654e-10
+Gmin = 8.73654e-11
+Gmin = 9.38079e-12
+Gmin = 1.00725e-12
+Gmin = 1.08153e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(i24:1)
+Ignoring empty pin current: Ix(i24:2)
+Ignoring empty pin current: Ix(i24:11)
+Ignoring empty pin current: Ix(i24:12)
+Ignoring empty pin current: Ix(i24:25)
+Ignoring empty pin current: Ix(i24:100)
+Ignoring empty pin current: Ix(i24:9)
+Ignoring empty pin current: Ix(i23:1)
+Ignoring empty pin current: Ix(i23:2)
+Ignoring empty pin current: Ix(i23:11)
+Ignoring empty pin current: Ix(i23:12)
+Ignoring empty pin current: Ix(i23:25)
+Ignoring empty pin current: Ix(i23:100)
+Ignoring empty pin current: Ix(i23:9)
+Ignoring empty pin current: Ix(i21:1)
+Ignoring empty pin current: Ix(i21:4)
+Ignoring empty pin current: Ix(i21:8)
+Ignoring empty pin current: Ix(i21:2)
+Ignoring empty pin current: Ix(i22:1)
+Ignoring empty pin current: Ix(i22:4)
+Ignoring empty pin current: Ix(i22:8)
+Ignoring empty pin current: Ix(i22:2)
+Ignoring empty pin current: Ix(i20:1)
+Ignoring empty pin current: Ix(i20:2)
+Ignoring empty pin current: Ix(i20:3)
+Ignoring empty pin current: Ix(i20:4)
+Ignoring empty pin current: Ix(i20:8)
+Ignoring empty pin current: Ix(i20:5)
+Ignoring empty pin current: Ix(i64:1)
+Ignoring empty pin current: Ix(i64:2)
+Ignoring empty pin current: Ix(i64:11)
+Ignoring empty pin current: Ix(i64:12)
+Ignoring empty pin current: Ix(i64:25)
+Ignoring empty pin current: Ix(i67:1)
+Ignoring empty pin current: Ix(i67:2)
+Ignoring empty pin current: Ix(i67:3)
+Ignoring empty pin current: Ix(i66:1)
+Ignoring empty pin current: Ix(i66:2)
+Ignoring empty pin current: Ix(i66:3)
+Ignoring empty pin current: Ix(i65:1)
+Ignoring empty pin current: Ix(i65:2)
+Ignoring empty pin current: Ix(i65:3)
+Ignoring empty pin current: Ix(i52:1)
+Ignoring empty pin current: Ix(i52:2)
+Ignoring empty pin current: Ix(i52:4)
+Ignoring empty pin current: Ix(i52:8)
+Ignoring empty pin current: Ix(i52:3)
+Ignoring empty pin current: Ix(i63:1)
+Ignoring empty pin current: Ix(i63:2)
+Ignoring empty pin current: Ix(i63:4)
+Ignoring empty pin current: Ix(i63:8)
+Ignoring empty pin current: Ix(i63:3)
+Ignoring empty pin current: Ix(u13:g0)
+Ignoring empty pin current: Ix(u13:g1)
+Ignoring empty pin current: Ix(u13:g2)
+Ignoring empty pin current: Ix(u14:g0)
+Ignoring empty pin current: Ix(u14:g1)
+Ignoring empty pin current: Ix(u14:g2)
+Ignoring empty pin current: Ix(u8:g0)
+Ignoring empty pin current: Ix(u8:g1)
+Ignoring empty pin current: Ix(u8:g2)
+Ignoring empty pin current: Ix(u15:g0)
+Ignoring empty pin current: Ix(u15:g1)
+Ignoring empty pin current: Ix(u15:g2)
+Ignoring empty pin current: Ix(u3:g0)
+Ignoring empty pin current: Ix(u3:g1)
+Ignoring empty pin current: Ix(u3:g2)
+Ignoring empty pin current: Ix(u11:g0)
+Ignoring empty pin current: Ix(u11:g1)
+Ignoring empty pin current: Ix(u11:g2)
+Ignoring empty pin current: Ix(i24:1)
+Ignoring empty pin current: Ix(i24:2)
+Ignoring empty pin current: Ix(i24:11)
+Ignoring empty pin current: Ix(i24:12)
+Ignoring empty pin current: Ix(i24:25)
+Ignoring empty pin current: Ix(i24:100)
+Ignoring empty pin current: Ix(i24:9)
+Ignoring empty pin current: Ix(i23:1)
+Ignoring empty pin current: Ix(i23:2)
+Ignoring empty pin current: Ix(i23:11)
+Ignoring empty pin current: Ix(i23:12)
+Ignoring empty pin current: Ix(i23:25)
+Ignoring empty pin current: Ix(i23:100)
+Ignoring empty pin current: Ix(i23:9)
+Ignoring empty pin current: Ix(i21:1)
+Ignoring empty pin current: Ix(i21:4)
+Ignoring empty pin current: Ix(i21:8)
+Ignoring empty pin current: Ix(i21:2)
+Ignoring empty pin current: Ix(i22:1)
+Ignoring empty pin current: Ix(i22:4)
+Ignoring empty pin current: Ix(i22:8)
+Ignoring empty pin current: Ix(i22:2)
+Ignoring empty pin current: Ix(i20:1)
+Ignoring empty pin current: Ix(i20:2)
+Ignoring empty pin current: Ix(i20:3)
+Ignoring empty pin current: Ix(i20:4)
+Ignoring empty pin current: Ix(i20:8)
+Ignoring empty pin current: Ix(i20:5)
+Ignoring empty pin current: Ix(i64:1)
+Ignoring empty pin current: Ix(i64:2)
+Ignoring empty pin current: Ix(i64:11)
+Ignoring empty pin current: Ix(i64:12)
+Ignoring empty pin current: Ix(i64:25)
+Ignoring empty pin current: Ix(i67:1)
+Ignoring empty pin current: Ix(i67:2)
+Ignoring empty pin current: Ix(i67:3)
+Ignoring empty pin current: Ix(i66:1)
+Ignoring empty pin current: Ix(i66:2)
+Ignoring empty pin current: Ix(i66:3)
+Ignoring empty pin current: Ix(i65:1)
+Ignoring empty pin current: Ix(i65:2)
+Ignoring empty pin current: Ix(i65:3)
+Ignoring empty pin current: Ix(i52:1)
+Ignoring empty pin current: Ix(i52:2)
+Ignoring empty pin current: Ix(i52:4)
+Ignoring empty pin current: Ix(i52:8)
+Ignoring empty pin current: Ix(i52:3)
+Ignoring empty pin current: Ix(i63:1)
+Ignoring empty pin current: Ix(i63:2)
+Ignoring empty pin current: Ix(i63:4)
+Ignoring empty pin current: Ix(i63:8)
+Ignoring empty pin current: Ix(i63:3)
+Ignoring empty pin current: Ix(u13:g0)
+Ignoring empty pin current: Ix(u13:g1)
+Ignoring empty pin current: Ix(u13:g2)
+Ignoring empty pin current: Ix(u14:g0)
+Ignoring empty pin current: Ix(u14:g1)
+Ignoring empty pin current: Ix(u14:g2)
+Ignoring empty pin current: Ix(u8:g0)
+Ignoring empty pin current: Ix(u8:g1)
+Ignoring empty pin current: Ix(u8:g2)
+Ignoring empty pin current: Ix(u15:g0)
+Ignoring empty pin current: Ix(u15:g1)
+Ignoring empty pin current: Ix(u15:g2)
+Ignoring empty pin current: Ix(u3:g0)
+Ignoring empty pin current: Ix(u3:g1)
+Ignoring empty pin current: Ix(u3:g2)
+Ignoring empty pin current: Ix(u11:g0)
+Ignoring empty pin current: Ix(u11:g1)
+Ignoring empty pin current: Ix(u11:g2)
+Heightened Def Con from 1.01402e-07 to 1.02027e-07
+Heightened Def Con from 2.68895e-05 to 2.68901e-05
