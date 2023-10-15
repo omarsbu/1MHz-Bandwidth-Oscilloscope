@@ -1,6 +1,6 @@
 # 1MHz-Bandwidth-Oscilloscope
 
-Created a cohesive digital oscilloscope system integrating both hardware and software components.
+- Created a cohesive digital oscilloscope system integrating both hardware and software components.
 
 - Designed a 50-ohm, 1MHz bandwidth analog front end with versatile signal processing capabilities
 including, AC/DC coupled inputs, single-ended to differential signal conversion, SPI controlled variable gain
