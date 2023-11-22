@@ -14,4 +14,5 @@ trigger level adjustment, and DC offset. Applied signal processing techniques fo
 attenuation, and dynamic upsampling and downsampling.
 
 - A USB port outputs 5V of power so that an external microcontroller can be connected. The ADC output can also be read
-  by an external microcontroller or FPGA. Control signals can also be sent to the analog front to control signal conditioning
+  by an external microcontroller or FPGA. Header connectors can be used to read data from the analog front end and send
+  control siignals to control signal conditioning.
