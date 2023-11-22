@@ -1,4 +1,4 @@
-# 1MHz-Bandwidth-Oscilloscope
+# 1MHz-Bandwidth Mixed Signal Oscilloscope
 
 - Created a cohesive mixed signal oscilloscope system integrating both hardware and software components.
 
@@ -12,3 +12,5 @@ real-time waveform plotting, XY cursors, frequency, period, duty cycle, and RMS 
 Implemented user-friendly controls via potentiometers and push buttons for vertical and horizontal scaling,
 trigger level adjustment, and DC offset. Applied signal processing techniques for signal amplification,
 attenuation, and dynamic upsampling and downsampling.
+
+- A USB port outputs 5V of power so that an external microcontroller can be connected. 
