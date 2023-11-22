@@ -13,4 +13,5 @@ Implemented user-friendly controls via potentiometers and push buttons for verti
 trigger level adjustment, and DC offset. Applied signal processing techniques for signal amplification,
 attenuation, and dynamic upsampling and downsampling.
 
-- A USB port outputs 5V of power so that an external microcontroller can be connected. 
+- A USB port outputs 5V of power so that an external microcontroller can be connected. The ADC output can also be read
+  by an external microcontroller or FPGA. Control signals can also be sent to the analog front to control signal conditioning
