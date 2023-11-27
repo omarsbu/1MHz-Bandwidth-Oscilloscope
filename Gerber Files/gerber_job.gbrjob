@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-11-27T01:00:41Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ESE323-Oscilloscope Project v75"
+        },
+        "Owner": "Omar Mohamed <omar.mohamed@stonybrook.edu>",
+        "Size": {
+            "X": 160,
+            "Y": 100
+        }
+    }
+}
